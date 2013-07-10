@@ -8,7 +8,7 @@ This watchface is still being written. Install links will be added here when it 
 
 #### Pictures
 
-* coming soon... *
+*Pictures are coming soon.*
 
 [1]: http://getpebble.com
 [2]: http://rescuetime.com
