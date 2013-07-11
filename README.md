@@ -8,7 +8,7 @@ This watchface is still being written. Install links will be added here when it 
 
 #### Pictures
 
-*Pictures are coming soon.*
+![Photo of an early version of the watchface](https://smallstoneapps.s3-external-3.amazonaws.com/rescue-time/rescue-time-photo-0.1.png)
 
 [1]: http://getpebble.com
 [2]: http://rescuetime.com
